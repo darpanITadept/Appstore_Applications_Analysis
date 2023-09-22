@@ -11,10 +11,10 @@ To begin the analysis, we combined data from multiple tables using UNION ALL to 
 
 ## Overview
 
-- Number of Unique Apps in Apple Store Database: **[Insert Count]**
-- Number of Unique Apps in Combined Database: **[Insert Count]**
-- Missing Values in Key Fields of Apple Store Database: **[Insert Count]**
-- Missing Values in `app_desc` Field of Combined Database: **[Insert Count]**
+- Number of Unique Apps in Apple Store Database: **7197**
+- Number of Unique Apps in Combined Database: **7197**
+- Missing Values in Key Fields of Apple Store Database: **0**
+- Missing Values in `app_desc` Field of Combined Database: **0**
 
 ## Apps per Genre
 
@@ -29,9 +29,9 @@ ORDER BY NumApps DESC
 
 ## Ratings Overview
 
-- Minimum User Rating: **[Insert Rating]**
-- Maximum User Rating: **[Insert Rating]**
-- Average User Rating: **[Insert Rating]**
+- Minimum User Rating: **0**
+- Maximum User Rating: **5**
+- Average User Rating: **3.526955675976101**
 
 ## Data Analysis
 
